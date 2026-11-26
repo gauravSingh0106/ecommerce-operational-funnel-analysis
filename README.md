@@ -6,7 +6,7 @@ Excited to share my latest End-to-End Data Analytics Project!
 
 In this project, I analyzed e-commerce operational data using SQL, Microsoft Excel, and Power BI to uncover business insights and evaluate overall performance.
 
-- Dashboard Link - <a href="https://github.com/gauravSingh0106/ecommerce-operational-funnel-analysis/blob/main/PBIDesktop_8UvEEdzTTT.png">
+- Dashboard Link -<Br> <a href="https://github.com/gauravSingh0106/ecommerce-operational-funnel-analysis/blob/main/PBIDesktop_8UvEEdzTTT.png">
     View Dashboard Screenshot
 </a> ,<Br>
        <a href="https://github.com/gauravSingh0106/ecommerce-operational-funnel-analysis/blob/main/PBIDesktop_rYDB5FrZ4f.png">
