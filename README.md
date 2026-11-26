@@ -1,5 +1,5 @@
 ## Project: E-Commerce Operational & Funnel Analysis
-# An End-to-End Data Analytics Project using SQL, Excel & Power BI
+ An End-to-End Data Analytics Project using SQL, Excel & Power BI
 
 
 Excited to share my latest End-to-End Data Analytics Project!
