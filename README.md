@@ -9,9 +9,15 @@ In this project, I analyzed e-commerce operational data using SQL, Microsoft Exc
 - Dashboard Link - <a href="https://github.com/gauravSingh0106/ecommerce-operational-funnel-analysis/blob/main/PBIDesktop_8UvEEdzTTT.png">
     View Dashboard Screenshot
 </a> ,
-<a href="https://github.com/gauravSingh0106/ecommerce-operational-funnel-analysis/blob/main/PBIDesktop_rYDB5FrZ4f.png">
-    View Dashboard Screenshot
-</a>
+       <a href="https://github.com/gauravSingh0106/ecommerce-operational-funnel-analysis/blob/main/PBIDesktop_rYDB5FrZ4f.png">
+        View Dashboard Screenshot
+        </a> ,
+       <a href="https://github.com/gauravSingh0106/ecommerce-operational-funnel-analysis/blob/main/PBIDesktop_FoBt6PHEro.png">
+       View Dashboard Screenshot
+     </a> ,
+       <a href="https://github.com/gauravSingh0106/ecommerce-operational-funnel-analysis/blob/main/PBIDesktop_2XAXYwjoA6.png">
+     View Dashboard Screenshot
+     </a>
 
 ## 1. Project Overview
 - Analyzed e-commerce operational data to evaluate sales performance, delivery efficiency, and customer order behavior.
