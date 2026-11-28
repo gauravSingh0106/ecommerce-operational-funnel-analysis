@@ -27,7 +27,7 @@ In this project, I analyzed e-commerce operational data using SQL, Microsoft Exc
 - Developed an interactive Power BI dashboard to transform raw data into actionable business insights.
 - Used SQL and Excel for data analysis and preparation.
 
-## 3. Business Problems & Solutions
+## 2. Business Problems & Solutions
 
 1. **Order Cancellation Analysis**
    - Business Problem: High order cancellations can negatively impact business performance.
@@ -41,14 +41,14 @@ In this project, I analyzed e-commerce operational data using SQL, Microsoft Exc
    - Business Problem: Difficulty in identifying top-performing sales channels and low-performing periods.
    - Solution: Analyze monthly sales trends and channel-wise performance to optimize business strategies.
 
-## 2. Dashboard Highlights
+## 3. Dashboard Highlights
 - **Sales Performance:** Monthly revenue, AOV, and order quantity analysis.
 - **Delivery Analytics:** Average delivery time, delivery buckets, and SLA performance.
 - **Order Funnel:** Delivered, cancelled, returned, and abandoned orders.
 - **Channel Analysis:** Performance comparison across Website, Mobile App, Partnership App, and Social Commerce.
 - **Customer & Product Insights:** Category-wise orders and weekday vs. weekend trends.
 
-## 3. Business Questions Addressed & Key Insights
+## 4. Business Questions Addressed & Key Insights
 - Which months and platforms generate the highest revenue?
 - What is the overall order cancellation and return rate?
 - How efficiently are orders delivered within the 30-minute SLA?
@@ -62,12 +62,12 @@ In this project, I analyzed e-commerce operational data using SQL, Microsoft Exc
 - Identified a 14.41% order cancellation rate.
 - Analyzed ₹1.21K Gross AOV and platform-wise operational performance.
 
-## 4. Tools & Technologies
+## 5. Tools & Technologies
 - **SQL:** Data querying and analysis.
 - **Microsoft Excel:** Data cleaning, preparation, and validation.
 - **Power BI:** Interactive dashboards and data visualization.
 
-## 5. Key Skills Demonstrated
+## 6. Key Skills Demonstrated
 - End-to-End Data Analytics
 - Data Cleaning & Transformation
 - Exploratory Data Analysis (EDA)
